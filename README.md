@@ -6,11 +6,22 @@ This project provides a comprehensive data analysis of a Superstore's performanc
 ---
 
 ## 📈 Executive Summary (KPIs)
-* **Total Revenue:** $2.3M 
-* **Total Profit:** $286.4K 
-* **Total Quantity Sold:** 37.9K units 
-* **Total Discount Applied:** 1.6K 
-* **Peak Year:** 2017 
+* **Total Revenue:** $2.3M
+* **Total Profit:** $286.4K
+* **Total Quantity Sold:** 37.9K units
+* **Total Discount Applied:** 1.6K
+* **Peak Performance Year:** 2017
+
+---
+
+## 🛠️ Dataset Features
+The analysis is built upon several key data dimensions that allow for deep-dive reporting:
+* **Temporal Data:** Order dates spanning from 2014 to 2017.
+* **Product Hierarchy:** Categorization by Category (Technology, Furniture, Office Supplies) and specific Product Names.
+* **Financial Metrics:** Sales revenue, profit figures, and discount amounts.
+* **Logistics Information:** Shipping modes (Standard Class, Second Class, First Class, Same Day).
+* **Customer Segmentation:** Breakdown by Consumer, Corporate, and Home Office segments.
+* **Geographic Data:** Performance tracking across Central, South, East, and West regions.
 
 ---
 
